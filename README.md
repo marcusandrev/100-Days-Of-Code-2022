@@ -1,6 +1,6 @@
-# I've joined the #100DaysOfCode Challenge **sheesh** 💪
-- Date Started: July 17, 2022
-- *Current Streak:* 1 day
+# I've joined the #100DaysOfCode Challenge *sheesh* 💪
+- Date Started: July 18, 2022
+- *Current Streak:* 2 days
 
 # Goals for this challenge:
 📌Master JS & React <br/>
