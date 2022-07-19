@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+<br/>
+<br/>
 ### Day []: Date, Week
 **Today's Progress**: <br/>
 - *Self Learning:* 
@@ -13,6 +15,19 @@
 
 **Links**
 
+
+<br/>
+<br/>
+### Day 19: July 19, Tuesday
+**Today's Progress**: <br/>
+- *Self Learning: * Learned about MVC architecture which was so cool cause now you're able to understand the kada structure. Additionally, finally understand the "Don't set a fixed width but have a max-width" saying! 
+
+**Thoughts** <br/>
+- *Self Learning:* Cool Stuff and Really Learned a lot. Damn the MVC was an unexpected learning but really learned a lot!!
+
+
+<br/>
+<br/>
 ### Day 2: July 18, Monday
 **Today's Progress**: <br/>
 - *Self Learning:* Learned a lot about the backend (API, HTTP Request, JSON, Rest API). Additionally, learned on why it's better to use REM and EM over pixels.
@@ -40,6 +55,8 @@ margin-bottom: 1em
 - margin bottom equals to 5 em kaya rem is consistent cause it looks only to its parents
 
 
+<br/>
+<br/>
 ### Day 1: July 17, Sunday
 
 **Today's Progress**: <br/>
