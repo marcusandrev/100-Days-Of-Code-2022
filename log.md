@@ -2,40 +2,55 @@
 
 <br/>
 <br/>
-### Day []: Date, Week
+## Day []: Date, Week <br/>
 **Today's Progress**: <br/>
-- *Self Learning:* 
-- *Project:* 
+- **Self Learning:** 
+- **Project:** 
 
 **Thoughts** <br/>
-- *Self Learning:* 
-- *Project:* 
-
-**Some Notes**
-
-**Links**
-
+- **Self Learning:**
+- **Project:** 
 
 <br/>
 <br/>
-### Day 19: July 19, Tuesday
+## Day 5: July 21, Thursday <br/>
 **Today's Progress**: <br/>
-- *Self Learning: * Learned about MVC architecture which was so cool cause now you're able to understand the kada structure. Additionally, finally understand the "Don't set a fixed width but have a max-width" saying! 
+- **Self Learning:** Learned CSS units: Vh, Vw, Vmin, Vmax. Also, learned about Design-Developer handovers 
 
 **Thoughts** <br/>
-- *Self Learning:* Cool Stuff and Really Learned a lot. Damn the MVC was an unexpected learning but really learned a lot!!
-
+- **Self Learning:** Cool thing to learn about the Design-Developer handovers!! There's something called like this :O!
 
 <br/>
 <br/>
-### Day 2: July 18, Monday
+## Day 4: July 20, Wednesday <br/>
 **Today's Progress**: <br/>
-- *Self Learning:* Learned a lot about the backend (API, HTTP Request, JSON, Rest API). Additionally, learned on why it's better to use REM and EM over pixels.
-- *Project:* None
+- **Self Learning:** Studied the React Interview Questions cause of coding interview. Learned CSS grid
 
 **Thoughts** <br/>
-- *Self Learning:* Finally understand the Swagger documentations! Also, some clarification of why use EM and REM
-- *Project:* None
+- **Self Learning:** You still have lots of blank knowledge in react
+
+
+
+<br/>
+<br/>
+## Day 3: July 19, Tuesday <br/>
+**Today's Progress**: <br/>
+- **Self Learning:** Learned about MVC architecture which was so cool cause now you're able to understand the kada structure. Additionally, finally understand the "Don't set a fixed width but have a max-width" saying! 
+
+**Thoughts** <br/>
+- **Self Learning:** Cool Stuff and Really Learned a lot. Damn the MVC was an unexpected learning but really learned a lot!!
+
+
+<br/>
+<br/>
+## Day 2: July 18, Monday <br/>
+**Today's Progress**: <br/>
+- **Self Learning:** Learned a lot about the backend (API, HTTP Request, JSON, Rest API). Additionally, learned on why it's better to use REM and EM over pixels.
+- **Project:** None
+
+**Thoughts** <br/>
+- **Self Learning:** Finally understand the Swagger documentations! Also, some clarification of why use EM and REM
+- **Project:** None
 
 **Some Notes**
 - Check Backend folder of Obsidian since it's quite lengthy
@@ -57,15 +72,15 @@ margin-bottom: 1em
 
 <br/>
 <br/>
-### Day 1: July 17, Sunday
+## Day 1: July 17, Sunday <br/>
 
 **Today's Progress**: <br/>
-- *Self Learning:* Day 1/21 Challenge of Conquering Responsive Layouts by Kevin Powell 
-- *Project:* Created themes and installed styled components for Foodify project
+- **Self Learning:** Day 1/21 Challenge of Conquering Responsive Layouts by Kevin Powell 
+- **Project:** Created themes and installed styled components for Foodify project
 
 **Thoughts** <br/>
-- *Self Learning:* Learned that CSS is Responsive by default. You did something to make it not responsive.
-- *Project:* Storybook is kinda iffy at first when you did it but realized you haven't installed styled components yet
+- **Self Learning:** Learned that CSS is Responsive by default. You did something to make it not responsive.
+- **Project:** Storybook is kinda iffy at first when you did it but realized you haven't installed styled components yet
 
 **Some Notes**
 1. For responsive layouts, use percentages. Using Pixels make it use several media queries

@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto;
+}
+
+h1 {
+  color: #fff;
+  font-size: 48px;
+}
+
+p {
+  color: #fff;
+  font-size: 21px;
+}
+
+h3 {
+  font-size: 21px;
+  text-align: center;
+}
+.container {
+  background: #23424a;
+  height: 75vh;
+}
+
+.container-info {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  margin: 0 30px;
+}
+
+.button {
+  background: #38cfd9;
+  border-radius: 100px;
+  width: 190px;
+}
