@@ -1,6 +1,5 @@
 # I've joined the #100DaysOfCode Challenge *sheesh* 💪
 - Date Started: July 17, 2022
-- **Current Streak:** 5 days
 
 # Goals for this challenge:
 📌Master JS & React <br/>
@@ -29,3 +28,6 @@
 
 3. **React Interview Questions**
     - List of top 500 ReactJS Interview Questions & Answers: [Github Link](https://github.com/sudheerj/reactjs-interview-questions)
+
+4. **CanIUse.com**
+    - Cool website to use to know if the CSS Properties works only on a specific browser: [CanIUse Link](https://caniuse.com/)

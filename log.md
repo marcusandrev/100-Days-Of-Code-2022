@@ -10,6 +10,24 @@
 - **Self Learning:**
 - **Project:** 
 
+ <br/>
+
+ ## Day 6: July 29
+ - I did some coding the past days but wasn't able to document them because I was lazy lmao. Anyways, I'll start a new with this one
+
+**Today's Progress**: <br/>
+- **Self Learning:** 
+    - Learned about flexbox such as flex only affects the children, not the grandchildren and there is a gap property for flex but is only available on firefox 
+    - Learned also about the website caniuse.com to check out about css properties and if they work on other browser both desktop and mobile apps
+- **Project:** 
+    - Responsive layout using flexbox (Day-08)
+
+**Thoughts** <br/>
+- **Self Learning:**
+- **Project:** 
+
+ <br/>
+
 ## Day 5: July 21 
 
 **Today's Progress**: <br/>
@@ -17,6 +35,7 @@
 
 **Thoughts** <br/>
 - **Self Learning:** Cool thing to learn about the Design-Developer handovers!! There's something called like this :O!
+ <br/>
 
 ## Day 4: July 20 
 
@@ -25,6 +44,7 @@
 
 **Thoughts** <br/>
 - **Self Learning:** You still have lots of blank knowledge in react
+ <br/>
 
 ## Day 3: July 19 
 
@@ -33,6 +53,7 @@
 
 **Thoughts** <br/>
 - **Self Learning:** Cool Stuff and Really Learned a lot. Damn the MVC was an unexpected learning but really learned a lot!!
+ <br/>
 
 ## Day 2: July 18 
 
@@ -41,7 +62,8 @@
 
 **Thoughts** <br/>
 - **Self Learning:** Finally understand the Swagger documentations! Also, some clarification of why use EM and REM
-
+ <br/>
+ 
 ## Day 1: July 17 
 
 **Today's Progress**: <br/>
