@@ -22,10 +22,6 @@
 - **Project:** 
     - Responsive layout using flexbox (Day-08)
 
-**Thoughts** <br/>
-- **Self Learning:**
-- **Project:** 
-
  <br/>
 
 ## Day 5: July 21 
