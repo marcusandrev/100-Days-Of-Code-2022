@@ -12,6 +12,14 @@
 
  <br/>
 
+ ## Day 7: July 30
+
+**Today's Progress**: <br/>
+- **Self Learning:** Learned a lot more about flexbox such as how to get the last two divs (e.g. .col + .col), and how to lessen divs and put them into one class. Also, tried  out the learn React of Scrimba and 
+- **Project:** Check Day 09 project and ngl I really learned a lot from how to organize divs!
+
+ <br/>
+
  ## Day 6: July 29
  - I did some coding the past days but wasn't able to document them because I was lazy lmao. Anyways, I'll start a new with this one
 
