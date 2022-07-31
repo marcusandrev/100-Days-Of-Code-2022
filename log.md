@@ -12,6 +12,14 @@
 
  <br/>
 
+ ## Day 8: July 31
+
+**Today's Progress**: <br/>
+- **Self Learning:** Learned more about CSS flexbox, CSS Structure in CSS file (General > Typography > Reusable Components > Specific components) and to make html always semantic
+- **Project:** Day 11 of Conquering Responsive Layouts
+
+ <br/>
+
  ## Day 7: July 30
 
 **Today's Progress**: <br/>
