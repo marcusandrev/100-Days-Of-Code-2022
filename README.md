@@ -17,6 +17,9 @@
     - [21 Day Challenge link](https://courses.kevinpowell.co/conquering-responsive-layouts/)
     - **Review:** So far so good!
 
+2. **Next.JS Tutorial by Codevolution**
+    - [Next.JS Tutorial Link](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
+    - **Review:** Really in-depth in learning Next and really worked you from the ground up of transitioning from React to Next
 
 ### New Learnings & Recommended Reads/Vids about those topics:
 1. **MVC Architecture**

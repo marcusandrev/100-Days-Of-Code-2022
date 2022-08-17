@@ -16,6 +16,27 @@
 
  <hr>
 
+ ## Day 14: August 17
+
+**Today's Progress**: <br/>
+
+- **Self Learning:** Took a break last week due to a funeral but finaly back on track rn. Learned about Routing in Next.js today for your work.
+- **Project:** Checkout 01-Codevolution folder Routes 
+
+
+ <br/>
+
+ ## Days 10 - 13: August 2 - 5
+
+**Today's Progress**: <br/>
+
+- **Self Learning:** Created a Money Transfer Service React Web App and learned a lot from this from learning Local, Session Storage, and Cookies to the logic of transferring money from two users. This is a React technical test for your current work rn 🥳
+- **Project:** https://money-transfer-service.vercel.app/
+
+
+ <br/>
+
+
 ## Day 9: August 1
 
 **Today's Progress**: <br/>
