@@ -7,4 +7,3 @@ function ProductDetail(params) {
 }
 
 export default ProductDetail;
-

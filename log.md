@@ -16,6 +16,16 @@
 
  <hr>
 
+ ## Day 14: August 24
+
+**Today's Progress**: <br/>
+
+- **Self Learning:** Learned Dynamic Nested Routing and creating kanban tables in mui as your task in work.
+- **Project:** Checkout 01-Codevolution folder Routes 
+
+
+ <br/>
+
  ## Day 14: August 17
 
 **Today's Progress**: <br/>
