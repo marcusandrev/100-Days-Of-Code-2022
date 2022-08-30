@@ -16,7 +16,17 @@
 
  <hr>
 
- ## Day 14: August 24
+  ## Day 16: August 31
+
+**Today's Progress**: <br/>
+- **Topic/s:** Next.js
+- **Self Learning:** Learned about SSG with getStaticProps, use of `context` in data fetching in Next
+- **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
+
+
+ <br/>
+
+ ## Day 15: August 24
 
 **Today's Progress**: <br/>
 
