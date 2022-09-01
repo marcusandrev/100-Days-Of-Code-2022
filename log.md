@@ -16,6 +16,16 @@
 
  <hr>
 
+  ## Day 17: September 1
+
+**Today's Progress**: <br/>
+- **Topic/s:** Next.js, JavaScript
+- **Self Learning:** Learned how to fetch paths using getStaticPaths. Learned about the `for in` and `for of` loop and the use case of it such as a json of having an array name and rendering out including its data. 
+- **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
+
+
+ <br/>
+
   ## Day 16: August 31
 
 **Today's Progress**: <br/>
