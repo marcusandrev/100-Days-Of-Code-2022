@@ -16,6 +16,16 @@
 
  <hr>
 
+## Day 18: September 2
+
+**Today's Progress**: <br/>
+- **Topic/s:** Next.js
+- **Self Learning:** Learned thoroughly the difference between getStaticPaths and getStaticProps. For Dynamic routing use getStaticPaths then for static-site generation (SSG) use getStaticProps. Also, dabbled Incremental Static Regeneration a little
+- **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
+
+
+ <br/>
+
   ## Day 17: September 1
 
 **Today's Progress**: <br/>
