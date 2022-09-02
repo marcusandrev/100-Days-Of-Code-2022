@@ -46,3 +46,6 @@
 
 5. **JSON Placeholder**
    - Great place to get free fake API for testing and prototyping. Highly used this in learning Next: [JSON Placeholder Link](https://jsonplaceholder.typicode.com/)
+
+6. **JSON Server NPM**
+   - Created with <3 for front-end developers who need a quick back-end for prototyping and mocking. [JSON Server Link](https://www.npmjs.com/package/json-server)
