@@ -16,6 +16,16 @@
 
  <hr>
 
+ ## Day 19: September 3
+
+**Today's Progress**: <br/>
+- **Topic/s:** Next.js
+- **Self Learning:** Leared the builds in ISR and the cons of Static Generation and why using Server-side rendering is better. Also, learned how to json-server!
+- **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
+
+
+ <br/>
+
 ## Day 18: September 2
 
 **Today's Progress**: <br/>
