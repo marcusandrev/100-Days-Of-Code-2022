@@ -16,11 +16,21 @@
 
  <hr>
 
+ ## Day 21: September 7
+
+**Today's Progress**: <br/>
+- **Topic/s:** Next.js, React Beautiful DnD
+- **Self Learning:** Learned about the convention of Client side data fetching in Next which is SWR. Pretty cool stuff and learned how to data fetch too in react lol. Regarding React beautiful dnd, learned the three components more thoroughly such as the props and functions needed on them. Notes on your Obisidian will be really helpful here! 
+- **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
+
+
+ <br/>
+
  ## Day 20: September 6
 
 **Today's Progress**: <br/>
 - **Topic/s:** Next.js
-- **Self Learning:** Learned more about Server Side Generation and understanding it's use case. Also, got a eureka moment on data fetching in Next.JS. Basically, Static and Server-side rendering (both are pre-rendering) pre-rendering the html in advance, which improves performance and SEO since the html meta data are read. Both has their cons but Ill more to Server Side rendering since data are fetched at request time--immediate updating of data when browser is refreshed.
+- **Self Learning:** Learned more about Server Side Generation and understanding it's use case. Also, got a eureka moment on data fetching in Next.JS. Basically, Static and Server-side rendering (both are pre-rendering) pre-rendering the html in advance, which improves performance and SEO since the html meta data are read. Both has their cons but Ill more to Server Side rendering since data are fetched at request time--immediate updating of data when browser is refreshed. 
 - **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
 
 
