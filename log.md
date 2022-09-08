@@ -16,96 +16,101 @@
 
  <hr>
 
- ## Day 21: September 7
+## Day 22: September 8
 
 **Today's Progress**: <br/>
+
+- **Topic/s:** React Beautiful DnD
+- **Self Learning:** Learned about the functions and arguments needed on react beautiful to do the drag and drop. Notes on obsidian here are useful
+
+ <br/>
+
+## Day 21: September 7
+
+**Today's Progress**: <br/>
+
 - **Topic/s:** Next.js, React Beautiful DnD
-- **Self Learning:** Learned about the convention of Client side data fetching in Next which is SWR. Pretty cool stuff and learned how to data fetch too in react lol. Regarding React beautiful dnd, learned the three components more thoroughly such as the props and functions needed on them. Notes on your Obisidian will be really helpful here! 
+- **Self Learning:** Learned about the convention of Client side data fetching in Next which is SWR. Pretty cool stuff and learned how to data fetch too in react lol. Regarding React beautiful dnd, learned the three components more thoroughly such as the props and functions needed on them. Notes on your Obisidian will be really helpful here!
 - **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
-
 
  <br/>
 
- ## Day 20: September 6
+## Day 20: September 6
 
 **Today's Progress**: <br/>
+
 - **Topic/s:** Next.js
-- **Self Learning:** Learned more about Server Side Generation and understanding it's use case. Also, got a eureka moment on data fetching in Next.JS. Basically, Static and Server-side rendering (both are pre-rendering) pre-rendering the html in advance, which improves performance and SEO since the html meta data are read. Both has their cons but Ill more to Server Side rendering since data are fetched at request time--immediate updating of data when browser is refreshed. 
+- **Self Learning:** Learned more about Server Side Generation and understanding it's use case. Also, got a eureka moment on data fetching in Next.JS. Basically, Static and Server-side rendering (both are pre-rendering) pre-rendering the html in advance, which improves performance and SEO since the html meta data are read. Both has their cons but Ill more to Server Side rendering since data are fetched at request time--immediate updating of data when browser is refreshed.
 - **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
-
 
  <br/>
 
- ## Day 19: September 3
+## Day 19: September 3
 
 **Today's Progress**: <br/>
+
 - **Topic/s:** Next.js
 - **Self Learning:** Leared the builds in ISR and the cons of Static Generation and why using Server-side rendering is better. Also, learned how to json-server!
 - **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
-
 
  <br/>
 
 ## Day 18: September 2
 
 **Today's Progress**: <br/>
+
 - **Topic/s:** Next.js
 - **Self Learning:** Learned thoroughly the difference between getStaticPaths and getStaticProps. For Dynamic routing use getStaticPaths then for static-site generation (SSG) use getStaticProps. Also, dabbled Incremental Static Regeneration a little
 - **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
 
-
  <br/>
 
-  ## Day 17: September 1
+## Day 17: September 1
 
 **Today's Progress**: <br/>
+
 - **Topic/s:** Next.js, JavaScript
-- **Self Learning:** Learned how to fetch paths using getStaticPaths. Learned about the `for in` and `for of` loop and the use case of it such as a json of having an array name and rendering out including its data. 
+- **Self Learning:** Learned how to fetch paths using getStaticPaths. Learned about the `for in` and `for of` loop and the use case of it such as a json of having an array name and rendering out including its data.
 - **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
 
-
  <br/>
 
-  ## Day 16: August 31
+## Day 16: August 31
 
 **Today's Progress**: <br/>
+
 - **Topic/s:** Next.js
 - **Self Learning:** Learned about SSG with getStaticProps, use of `context` in data fetching in Next
 - **Project:** Checkout 01-Codevolution/01-Data-Fetching posts folder
 
-
  <br/>
 
- ## Day 15: August 24
+## Day 15: August 24
 
 **Today's Progress**: <br/>
 
 - **Self Learning:** Learned Dynamic Nested Routing and creating kanban tables in mui as your task in work.
-- **Project:** Checkout 01-Codevolution folder Routes 
-
+- **Project:** Checkout 01-Codevolution folder Routes
 
  <br/>
 
- ## Day 14: August 17
+## Day 14: August 17
 
 **Today's Progress**: <br/>
 
 - **Self Learning:** Took a break last week due to a funeral but finaly back on track rn. Learned about Routing in Next.js today for your work.
-- **Project:** Checkout 01-Codevolution folder Routes 
-
+- **Project:** Checkout 01-Codevolution folder Routes
 
  <br/>
 
- ## Days 10 - 13: August 2 - 5
+## Days 10 - 13: August 2 - 5
 
 **Today's Progress**: <br/>
 
 - **Self Learning:** Created a Money Transfer Service React Web App and learned a lot from this from learning Local, Session Storage, and Cookies to the logic of transferring money from two users. This is a React technical test for your current work rn 🥳
 - **Project:** https://money-transfer-service.vercel.app/
 
-
  <br/>
-
 
 ## Day 9: August 1
 
