@@ -16,7 +16,15 @@
 
  <hr>
 
- ## Day 23: September 13
+## Day 24: September 14
+
+**Today's Progress**: <br/>
+
+- **Self Learning:** Learned that you can create API's within the same folder stucture--not anymore using json-server. Cool stuff. You also dabbled in on how to create a GET request on the API you made.
+
+ <br/>
+
+## Day 23: September 13
 
 **Today's Progress**: <br/>
 
