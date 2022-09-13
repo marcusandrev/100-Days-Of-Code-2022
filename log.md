@@ -16,6 +16,15 @@
 
  <hr>
 
+ ## Day 23: September 13
+
+**Today's Progress**: <br/>
+
+- **Topic/s:** Next.JS, React Beautiful DnD
+- **Self Learning:** Learned that you can pre-render then client side for things such as filtering and pagination. Also, learned how to do a quick query string on Next. In React Beautiful DnD, learned about Multi-drag, which is cool!
+
+ <br/>
+
 ## Day 22: September 8
 
 **Today's Progress**: <br/>

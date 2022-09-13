@@ -25,6 +25,9 @@
    - [Next.JS Tutorial Link](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH)
    - **Review:** Really in-depth in learning Next and really worked you from the ground up of transitioning from React to Next
 
+3. **Colby Fayock React Beautiful DnD Tutorial**
+   - [Colby Fayock React Beautiful DnD Tutorial](https://www.freecodecamp.org/news/how-to-add-drag-and-drop-in-react-with-react-beautiful-dnd/)
+   - **Review:** Great tutorial on learning the know-it-all of react beautiful dnd! Highly recommend this one when you'll start learning this library. Notes on my obsidian here is great too!
 ### New Learnings & Recommended Reads/Vids about those topics:
 
 1. **MVC Architecture**

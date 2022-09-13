@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import styles from '../styles/Home.module.css';
-import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
+import { DragDropContext, Droppable, Draggable, resetServerContext  } from 'react-beautiful-dnd';
+import { renderToString } from 'react-dom/server';
 
 // for this try out turning of ssr for next
 
@@ -37,6 +38,8 @@ export default function Home() {
 
   const [characters, updateCharacters] = useState(finalSpaceCharacters);
 
+  resetServerContext();
+
   function handleOnDragEnd(result) {
     if (!result.destination) return;
 
@@ -50,6 +53,7 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
+
       <DragDropContext  onDragEnd={handleOnDragEnd}>
       <header className={styles.appHeader}>
         <h1>Final Space Characters</h1>
